@@ -36,7 +36,7 @@ Where:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Amirreza-Bazmi/Zeller's Congruence.git
+   git clone https://github.com/Amirreza-Bazmi/Simple-Python-Projects/Zeller's Congruence.git
    ```
 
 2. Navigate to the project directory:
