@@ -18,7 +18,7 @@ Each project is organized as a standalone Python file with a clear description o
 To get started, clone this repository using the following command:
 ```bash
 git clone https://github.com/Amirreza-Bazmi/Simple-Python-Projects.git
-cd Simple-Python-Projects
+cd Simple-Python-Projects/<Folder Name>
 ```
 
 ### 2. Read the Questions
